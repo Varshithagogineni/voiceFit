@@ -1,11 +1,36 @@
 {
   "dependencies": {
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0",
+    "form-data": "^4.0.3",
     "lucide-react": "^0.525.0",
+    "multer": "^2.0.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6"
-  }
+  },
+  "name": "project-bolt-sb1-5tnlhanf-(1)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varshithagogineni/voiceFit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Varshithagogineni/voiceFit/issues"
+  },
+  "homepage": "https://github.com/Varshithagogineni/voiceFit#readme"
 }
